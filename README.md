@@ -14,7 +14,7 @@
 ### 1. Клонируем репозиторий
 
 ```powershell
-git clone https://github.com/Danilkynev/danil-kynev-hw
+git clone https://github.com/Danilkynev/danil-kynev-hw/tree/hw1
 cd danil-kynev-hw
 ```
 
